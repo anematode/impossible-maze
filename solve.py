@@ -5,7 +5,7 @@ import copy
 import time
 
 # Only show moves, not individual solutions
-only_moves = False
+only_moves = True
 
 # Put correct sequence of keypresses into path.txt
 

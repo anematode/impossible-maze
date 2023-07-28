@@ -1,5 +1,7 @@
 # The Impossible Maze
 
+![gameplay](./preview.png)
+
 A challenge I made for [Crusaders of Rust CTF 2023](https://2023.cor.team/).
 
 There are eleven mazes, each fitting in an 8 by 8 grid. Some are solvable on sight. Others necessitate reversing (parts of) the source code to find the correct path. Well that, or some serious trial and error. Upon completing the eleventh maze the flag is displayed. To force people to solve the maze, the flag only displays given the correct hash of the player's route (across all levels).

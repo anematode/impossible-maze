@@ -8,7 +8,7 @@ p = open("path.txt",'r').read()
 
 time.sleep(4)
 for c in p:
-    time.sleep(0.4)
+    time.sleep(0.15)
     k.press_key(c)
     time.sleep(0.08)
     k.release_key(c)
